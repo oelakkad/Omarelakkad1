@@ -4,7 +4,7 @@
 
 ###
 <p align="center">
-  Full-stack developer moving into AI Engineering — building LLM-powered web apps.<br/>
+  Full-stack developer moving into AI Engineering building LLM-powered web apps.<br/>
   B.Sc. Computer Science · Multimedia University 
 </p>
 
