@@ -58,7 +58,7 @@
 
 <div align="center">
 <img src="https://github-stats-alpha.vercel.app/api?username=Omarelakkad1&cc=e2e8f0&tc=000&ic=000&bc=e2e8f0" height="150" />
-  <img src="https://streak-stats.demolab.com?user=Omarelakkad1&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3&background=e2e8f0" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=oelakkad&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3&background=e2e8f0" height="150" alt="streak graph"  />
 </div>
 
 ###
