@@ -17,7 +17,7 @@
 
 <h2>About me</h2>
 <ul>
-  <li>All of my projects are available on <a href="https://github.com/Omarelakkad1?tab=repositories">GitHub</a></li>
+  <li>All of my projects are available on <a href="https://github.com/oelakkad?tab=repositories">GitHub</a></li>
   <li>How to reach me <a href="mailto:omarelakkad77@gmail.com">omarelakkad77@gmail.com</a></li>
 </ul>
 
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+<!--  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 
 
 
